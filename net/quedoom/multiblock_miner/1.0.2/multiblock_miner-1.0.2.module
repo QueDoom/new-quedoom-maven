@@ -1,8 +1,8 @@
 {
   "formatVersion": "1.1",
   "component": {
-    "group": "net.quedoom.multiblock_miner",
-    "module": "qs-multiblock-miner",
+    "group": "net.quedoom",
+    "module": "multiblock_miner",
     "version": "1.0.2",
     "attributes": {
       "org.gradle.status": "release"
@@ -25,8 +25,8 @@
       },
       "files": [
         {
-          "name": "qs-multiblock-miner-1.0.2.jar",
-          "url": "qs-multiblock-miner-1.0.2.jar",
+          "name": "multiblock_miner-1.0.2.jar",
+          "url": "multiblock_miner-1.0.2.jar",
           "size": 67627,
           "sha512": "04c2a72f0b3b109e8801c7e654f7b1a400d75c8e13be0043b31ae90267eafeb1e8588abc7e7c6e6393a2903d33d8b45514b78e86461ac7a6c54c730a456746e4",
           "sha256": "9603f3fd2021b6df6a8326964f19c0e09ab783d513a3eb58eea75b480a0e5286",
@@ -76,8 +76,8 @@
       ],
       "files": [
         {
-          "name": "qs-multiblock-miner-1.0.2.jar",
-          "url": "qs-multiblock-miner-1.0.2.jar",
+          "name": "multiblock_miner-1.0.2.jar",
+          "url": "multiblock_miner-1.0.2.jar",
           "size": 67627,
           "sha512": "04c2a72f0b3b109e8801c7e654f7b1a400d75c8e13be0043b31ae90267eafeb1e8588abc7e7c6e6393a2903d33d8b45514b78e86461ac7a6c54c730a456746e4",
           "sha256": "9603f3fd2021b6df6a8326964f19c0e09ab783d513a3eb58eea75b480a0e5286",
@@ -96,8 +96,8 @@
       },
       "files": [
         {
-          "name": "qs-multiblock-miner-1.0.2-sources.jar",
-          "url": "qs-multiblock-miner-1.0.2-sources.jar",
+          "name": "multiblock_miner-1.0.2-sources.jar",
+          "url": "multiblock_miner-1.0.2-sources.jar",
           "size": 52647,
           "sha512": "3255cfbf24b39bc1f5d885532b9c652a9d6c1728ee367868e2de2898106e033d4dc9bad2bd021a6af47bf45ce4a2f6b0aa9e7db707042ece1c9fdfbdcd3f2f22",
           "sha256": "e8a48748015359cbf231a5d5814e321fb2b4c2095b800f5c2d2b3ab26cac9c14",
