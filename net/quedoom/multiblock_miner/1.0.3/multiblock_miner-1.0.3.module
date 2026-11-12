@@ -1,0 +1,110 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "net.quedoom",
+    "module": "multiblock_miner",
+    "version": "1.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "9.8.2"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "multiblock_miner-1.0.3.jar",
+          "url": "multiblock_miner-1.0.3.jar",
+          "size": 67704,
+          "sha512": "458fa12071c2aeeb7ee5c97e16418e0431a284bf6d2fb0688af6d0126d230ae60d65b94fa1a428c7bb8dda163161a43475a2cdf0eda58ee8618822dc03274106",
+          "sha256": "3a32f54b13594954ccc002d887a9cf60c3209caf468553c9bc3b3b2e22d23ad3",
+          "sha1": "7435114fd85e844a320631c288e24058e86c5dde",
+          "md5": "2a3560239c05b0338e05a90a145c3cf7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 25,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "net.fabricmc",
+          "module": "fabric-loader",
+          "version": {
+            "requires": "0.20.1"
+          }
+        },
+        {
+          "group": "net.fabricmc.fabric-api",
+          "module": "fabric-api",
+          "version": {
+            "requires": "0.155.3+26.1.2"
+          }
+        },
+        {
+          "group": "net.darkhax.pricklemc",
+          "module": "prickle-fabric-26.1.2",
+          "version": {
+            "requires": "26.1.2.6"
+          }
+        },
+        {
+          "group": "com.terraformersmc",
+          "module": "modmenu",
+          "version": {
+            "requires": "18.0.2"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "multiblock_miner-1.0.3.jar",
+          "url": "multiblock_miner-1.0.3.jar",
+          "size": 67704,
+          "sha512": "458fa12071c2aeeb7ee5c97e16418e0431a284bf6d2fb0688af6d0126d230ae60d65b94fa1a428c7bb8dda163161a43475a2cdf0eda58ee8618822dc03274106",
+          "sha256": "3a32f54b13594954ccc002d887a9cf60c3209caf468553c9bc3b3b2e22d23ad3",
+          "sha1": "7435114fd85e844a320631c288e24058e86c5dde",
+          "md5": "2a3560239c05b0338e05a90a145c3cf7"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "multiblock_miner-1.0.3-sources.jar",
+          "url": "multiblock_miner-1.0.3-sources.jar",
+          "size": 52697,
+          "sha512": "c9d5fb0243e51492033a6d6612748a01c0e58e98ee9353067046ae76d176adcaf1f5fd03e7310e03baab5a6305e896079c3f696ff89b1c7a90b414873697a4f3",
+          "sha256": "8f0e746c46b6ced0ea5e04e9f84ce1eb14109845f1422ed36ce0bac5ab97f3fc",
+          "sha1": "52946381e5572f6acd3fa9adfca0051285ba3a13",
+          "md5": "5514564f845ab0dcdd5d936ddebe634f"
+        }
+      ]
+    }
+  ]
+}
