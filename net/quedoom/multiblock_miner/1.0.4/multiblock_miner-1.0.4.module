@@ -27,11 +27,11 @@
         {
           "name": "multiblock_miner-1.0.4.jar",
           "url": "multiblock_miner-1.0.4.jar",
-          "size": 68216,
-          "sha512": "344dbbe1174e419bbe206167184e89fdf665aa14125ff984248d0128234dcf28f68bf7c574bf388a7e1d150f087a6f57905003cb59906ab10118e7d1fca2b716",
-          "sha256": "15f50591bc4e331bd9d8352b4a331cfddaaf2833e8d3182aad197a6e1996f838",
-          "sha1": "096784d23dbb90c357dd16164db651af76a73bd4",
-          "md5": "3e4285ee84e5e33345220353134458d6"
+          "size": 68240,
+          "sha512": "24c3ea54237ce95ed13f9b811c321aee9e24ba359572b03e8f1cf9bbe1cfd3a3aae61ea5142ba8c8e938eba1cb66ed008efa85d9e6649de08f5e7b1568122a73",
+          "sha256": "88b53723e33be50f6051a67ea74b38b9769532f080069e80c1d425666455124d",
+          "sha1": "af9eef5648e2a540812608732f8fba8ec010ae8d",
+          "md5": "d674eee61564e26a349171b847837912"
         }
       ]
     },
@@ -78,11 +78,11 @@
         {
           "name": "multiblock_miner-1.0.4.jar",
           "url": "multiblock_miner-1.0.4.jar",
-          "size": 68216,
-          "sha512": "344dbbe1174e419bbe206167184e89fdf665aa14125ff984248d0128234dcf28f68bf7c574bf388a7e1d150f087a6f57905003cb59906ab10118e7d1fca2b716",
-          "sha256": "15f50591bc4e331bd9d8352b4a331cfddaaf2833e8d3182aad197a6e1996f838",
-          "sha1": "096784d23dbb90c357dd16164db651af76a73bd4",
-          "md5": "3e4285ee84e5e33345220353134458d6"
+          "size": 68240,
+          "sha512": "24c3ea54237ce95ed13f9b811c321aee9e24ba359572b03e8f1cf9bbe1cfd3a3aae61ea5142ba8c8e938eba1cb66ed008efa85d9e6649de08f5e7b1568122a73",
+          "sha256": "88b53723e33be50f6051a67ea74b38b9769532f080069e80c1d425666455124d",
+          "sha1": "af9eef5648e2a540812608732f8fba8ec010ae8d",
+          "md5": "d674eee61564e26a349171b847837912"
         }
       ]
     },
@@ -98,11 +98,11 @@
         {
           "name": "multiblock_miner-1.0.4-sources.jar",
           "url": "multiblock_miner-1.0.4-sources.jar",
-          "size": 53050,
-          "sha512": "4faa3d30a1b24d88854a3544a8f1fb4629bb8e9b57e5a22c426dbd23a1eb190739fb196661109f1b7a79af0503d42a0ef772031f0c1e1de664fa7a3794b85279",
-          "sha256": "34b62d0fe5a3d7c392df19133cfe795a23656a54e86fe1fc901553e5e4682239",
-          "sha1": "4c200b05c6d3bf8a66747474322a81c1cfdd4c19",
-          "md5": "18adf8e85a7f906a5706d3b72051dd43"
+          "size": 53070,
+          "sha512": "72f763e4e4349a3f686186a35de099a709649faeb819e15d9cc357b0fee1fa35e812d0ec06e4178f6b7403b1399941a574088ebb6257897f44b93c9d5f7851d0",
+          "sha256": "382fff444e8e98eff095ea79c40fcc64a08bfce2b42dac1b20f0d5a6268325fc",
+          "sha1": "9ad71b9f86af8fa205e102876396b95fcf8c160c",
+          "md5": "58fb11bbf9d52e13bc314d19cb34b017"
         }
       ]
     }
